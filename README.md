@@ -1,1 +1,1 @@
-# makeDevelopers.dev
+# make-developers.dev
